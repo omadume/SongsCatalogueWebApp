@@ -25,7 +25,7 @@ A responsive web application that allows users to easily keep track of their fav
 - Start the web application:
     - Enter in terminal: cd path/to/Take-home project
     - Start the web application by entering in terminal: ./mvnw spring-boot:run
-        _- Run the backend tests by entering in the terminal: ./mvnw test_
+        _(Run the backend tests by entering in the terminal: ./mvnw test)_
     - Go to the website by opening a browser application (e.g. Chrome) and entering: http://localhost:8080/login 
 
 - To run React UI separately:
