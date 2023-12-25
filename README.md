@@ -38,8 +38,8 @@ A responsive web application that allows users to easily keep track of their fav
     - Start the web application by entering in terminal: ./mvnw spring-boot:run
     - Go to the H2 console by opening a browser application (e.g. Chrome) and entering: http://localhost:8080/h2
     - Enter login credentials which can be found in: path/to/Take-home project/src/main/resources/application.properties
-
-**- Note:** 
+    
+**- Note:**
     - If any H2 DB or data source changes are made, will need to rebuild project first before running application. Similar for any updates to Java files.
     - Always run app from console not IDE (sometimes IDEs like IntelliJ are not recognising when Spring Security is disabled it seems).
     - Spring Security blocks access to H2 console in browser, so need to configure if using it.
